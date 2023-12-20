@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+emm, personal introduction is not ready/
+
 ![](https://github-readme-stats.vercel.app/api?username=Aurorum-Studio&show_icons=true&theme=radical)
 ![](https://github-profile-trophy.vercel.app/?username=Aurorum-Studio)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurorum-Studio)
