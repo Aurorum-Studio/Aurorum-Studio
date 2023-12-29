@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-emm, personal introduction is not ready/
+
+### I am too busy to answer some issues and provide updates to my projects these weeks (end of 2023). I will do them in the coming year. Fell free to contact me personally through email aurorum@aurorum.co if you have urgent business.
 
 ![](https://github-readme-stats.vercel.app/api?username=Aurorum-Studio&show_icons=true&theme=radical)
 ![](https://github-profile-trophy.vercel.app/?username=Aurorum-Studio)
