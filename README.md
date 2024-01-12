@@ -1,9 +1,32 @@
 ### Hi there 👋
 
-Welcome to visit my photographers' forum at https://www.hhilan.com.
-My Aurorum Biodiversity Database at https://aurorum.co
-The official Tree-Youth Club website at https://tree.aurorum.co
+### Dear admissions officer from Brown University,
 
+#### I'm Wanyan Shichen, a first-year applicant to Brown University. Here's a temporary profile of mine. I prefer not to expose every detail about myself online, so I didn't made a webpage introducing myself until the application. I'm an active GitHub member, you can explore the projects I've contributed to on the page. I'm also passionate about photography, and I'm a webmaster for multiple websites with diverse functions. After consideration, I believe you might find it interesting to explore some websites I've built and own, they can also provide more information about me.
+
+#### Due to a data injection attack in October 2023, many of my websites and backups were destroyed.😥 As a result, the websites listed here have been restored using older backups stored on my personal laptop. In the future, I may consider transferring my websites to more secure open-source frameworks like WordPress, although this may limit my creative freedom.🤣 I apologize for not being able to show the best versions of my websites.
+
+- This is a new website and wasn't impacted by the cyberattack: the official Tree-Youth Club website at https://tree.aurorum.co , I built this website for the Tree-Youth Club, which is a youth organization that aims to spread medical knowledge to the public. I was the co-founder of the club and I built the website using WordPress and additional plugins coded by me.
+
+- Welcome to visit my photographers' forum at https://www.hhilan.com . I posted many images and videos on this website. I will re-post lots of my images to this website after solving bugs that hackers can utilize.
+
+- My Aurorum Biodiversity Database at https://aurorum.co . It's one of my goals to build a biodiversity database with more detailed data than COL (https://www.catalogueoflife.org/), I was forced to restore the very original vision of my database website due to the attack.😅 You can access a full version in https://github.com/Aurorum-Studio/Aurorum-Biobase (if you face a 404 page, you may need to request to join the developer team of this project. Sorry for the inconvenience because I need to keep the source code of the project safe.)
+
+- This is one of my oldest and all-time favorite websites, the AuroGames https://dl.aurorum.co/ . I created or edited hundreds of games that can play online, PC, phones or even Ti calculators on the website Unfortunately, due to the attack, the current version of it is the backup I created on January 2023. /(ㄒoㄒ)/~~ The hacker destroyed the website and its backup completely, the latest backup I keep on my personal laptop is from January 2023.
+
+- https://dev.aurorum.co/ This was a website for open source project developers to have better communications. There were more than 20 projects using this platform to communicate. However, the attack injected millions of fake users and broke the website. The current version is from the backup created in February 2023.
+
+- This is a panorama viewer website based on script I edited from JeremyHeleine/Photo-Sphere-Viewer. Here is an example view of one of my panorama pictures https://panorama.hhilan.com/origin/embed/1/index.html .
+
+### I've also built other interesting websites like galleries, pure HTML games, etc. However, most of them were forced to restore to versions with no content.
+
+### TODO: 
+- write other part of me tomorrow.
+- update the SSL certificates
+
+  
+-------
+## To dear GitHubers
 
 ### I am too busy to answer some issues and provide updates to my projects these weeks (end of 2023). I will do them in the coming year. Feel free to contact me personally through email aurorum@aurorum.co if you have urgent business.
 
