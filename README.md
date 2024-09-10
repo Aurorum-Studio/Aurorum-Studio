@@ -1,4 +1,6 @@
-New Introduction under construction
+🚜 New Introduction under construction
+
+
 
 <!--
 ### Hi there 👋
@@ -60,5 +62,6 @@ aaaaa, forgot yesterday
 水水水
 好累23/10/27
 🦊24/9/9
+🛫 Very very busy recently, moving to Seattle to attend university. 24/9/11
 -->
 
