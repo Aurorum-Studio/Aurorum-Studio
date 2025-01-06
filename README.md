@@ -35,7 +35,7 @@
 ## To dear GitHubers
 
 ### I am too busy to answer some issues and provide updates to my projects these weeks (end of 2023). I will do them in the coming year. Feel free to contact me personally through email aurorum@aurorum.co if you have urgent business.
-
+### DO NOT contact by email, email temporarily un-reachable due to DNS issue. (JAN 2025)
 ![](https://github-readme-stats.vercel.app/api?username=Aurorum-Studio&show_icons=true&theme=radical)
 ![](https://github-profile-trophy.vercel.app/?username=Aurorum-Studio)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurorum-Studio)
