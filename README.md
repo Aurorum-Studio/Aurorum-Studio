@@ -7,7 +7,7 @@
 
 ### Dear admissions officer from Brown University,
 
-#### I'm Wanyan Shichen, a first-year applicant to Brown University. Here's a temporary profile of mine. I prefer not to expose every detail about myself online, so I didn't made a webpage introducing myself until the application. I'm an active GitHub member, you can explore the projects I've contributed to on the page. I'm also passionate about photography, and I'm a webmaster for multiple websites with diverse functions. After consideration, I believe you might find it interesting to explore some websites I've built and own, they can also provide more information about me.
+#### I'm ******, a first-year applicant to Brown University. Here's a temporary profile of mine. I prefer not to expose every detail about myself online, so I didn't made a webpage introducing myself until the application. I'm an active GitHub member, you can explore the projects I've contributed to on the page. I'm also passionate about photography, and I'm a webmaster for multiple websites with diverse functions. After consideration, I believe you might find it interesting to explore some websites I've built and own, they can also provide more information about me.
 
 #### Due to a data injection attack in October 2023, many of my websites and backups were destroyed.😥 As a result, the websites listed here have been restored using older backups stored on my personal laptop. In the future, I may consider transferring my websites to more secure open-source frameworks like WordPress, although this may limit my creative freedom.🤣 I apologize for not being able to show the best versions of my websites.
 
